@@ -1,5 +1,8 @@
 body {
   font-family: Arial, sans-serif;
+  background-image: url('https://files.modern.az/articles/2023/01/07/1673082448_1665390689_2012-toyota-prius-plug-in-hybrid-photos-and-info-news-car-and-driver-photo-433599-s-original.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
 }
 
 .container {
